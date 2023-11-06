@@ -13,9 +13,9 @@ Here you can find an outline of my CV. The full version is available as a pdf [h
 
 ### Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Physics, La Sapienza University (Rome), 2020
+* M.S. in Astrophysics, La Sapienza University, 2022
+* Ph.D in Astroparticle Physics, Gran Sasso Science Institute, 2022 - now
 
 ### Work experience
 ======
