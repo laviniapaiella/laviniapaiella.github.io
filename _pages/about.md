@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a second year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the connection between **first stars** and **gamma ray bursts**. If you want to know more please check my website, get in touch with me and stay tuned!
+Welcome! I am a second year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the connection between **first stars** and **gamma ray bursts**. If you want to know more please check my website, [contact me](mailto:lavinia.paiella@gssi.it) and stay tuned!
 
 ### CV
 
