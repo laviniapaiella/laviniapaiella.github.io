@@ -12,10 +12,17 @@ redirect_from:
 
 Welcome! I am a second year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the connection between **first stars** and **gamma ray bursts**. If you want to know more please check my website, [contact me](mailto:lavinia.paiella@gssi.it) and stay tuned!
 
-<blockquote>
+I am very passionate about outreaching and public engagement in the STEM field. Here are some project I am working/have worked on recently:
+
+* Par-en-te-si : scientific literature festival promoted by the GSSI and in collaboration with the University of L'Aquila. New event each 1-2 months, check [GSSI Instagram](https://www.instagram.com/gransassoscienceinstitute/?hl=en) profile for updates.
+
+* SHARPER night 2023: European night of researchers in L'Aquila, I have taken part of outreach activities organized by GSSI.
+
+<!-- <blockquote>
 💡 here is a good idea for you
 
-</blockquote>
+</blockquote> -->
+
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
