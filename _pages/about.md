@@ -18,9 +18,10 @@ Welcome! I am a second year PhD student in the Astrophysics and Cosmology group 
 </blockquote>
 
 <div class="panel panel-info">
-**💡 Note**
-{: .panel-heading}
-<div class="panel-body">
+<div class="panel-heading">**💡 Note**</div>
+  <div class="panel-body">Panel Content</div>
+  <div class="panel-footer">Panel Footer</div>
+</div>
 
 The start of a very good idea
 
