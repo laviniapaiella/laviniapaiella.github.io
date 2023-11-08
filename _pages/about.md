@@ -17,7 +17,7 @@ I am very passionate about outreaching and public engagement in the STEM field. 
 
 * [**SHARPER night 2023**](https://sharper-night.lngs.infn.it/): European night of researchers in L'Aquila, I have taken part of outreach activities organized by GSSI.
 
-**Watch out!** This website is still under construction! Hope you can already find the info that you need.
+**Note:** This website is still under construction! Hope you can already find the info that you need.
 {: .notice}
 
 <!-- <blockquote>
