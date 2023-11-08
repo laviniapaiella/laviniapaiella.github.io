@@ -12,23 +12,29 @@ redirect_from:
 Here you can find an outline of my CV. The full version is available as a pdf [here](/files/CV_2023.pdf) (Updated October 2023).
 
 ### Education
-======
-* B.S. in Physics, La Sapienza University (Rome), 2020
-* M.S. in Astrophysics, La Sapienza University, 2022
+
 * Ph.D in Astroparticle Physics, Gran Sasso Science Institute, 2022 - now
+* M.S. in Astrophysics, La Sapienza University, 2020 - 2022
+* B.S. in Physics, La Sapienza University (Rome), 2017 - 2020
 
-### Work experience
+### Awards and Honours
+
+* Milla Baldo Ceolin National Prize (awarded by INFN), 2023
+* Physics Master Honours Programme (La Sapienza University), 2021 - 2022
+* Physics Master Honours Programme (La Sapienza University), 2019 - 2020
+
+### Conferences
+
+* LOC member of "Asymmetric Binaries meet Fundamental Astro-Physics", GSSI (L'Aquila), 2023
+* LOC member of PHAROS 2022, La Sapienza University (Rome)
+
+### Publications
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
   
+<!--   
 ### Skills
 ======
 * Skill 1
@@ -38,12 +44,7 @@ Here you can find an outline of my CV. The full version is available as a pdf [h
   * Sub-skill 2.3
 * Skill 3
 
-### Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
 ### Talks
 ======
   <ul>{% for post in site.talks %}
@@ -58,4 +59,4 @@ Here you can find an outline of my CV. The full version is available as a pdf [h
   
 ### Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
