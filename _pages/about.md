@@ -2,7 +2,7 @@
 permalink: /
 title: "In a nutshell"
 excerpt: "About me"
-header: /images/Pleiades_large.jpg
+header: Pleiades_large.jpg
 author_profile: true
 redirect_from: 
   - /about/
