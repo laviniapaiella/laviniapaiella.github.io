@@ -22,4 +22,4 @@ How would they appear in our instruments?
 * Can we infer properties of the initial population and of the environment
 in which Pop-III stars interact from the observed GRB rate?
 
-My past research focused on constraining properties of nuclear interactions in neutron stars from the multimessenger emission of binary neutron star mergers. If you want to know more about these topics, [here]() you can find my master thesis work for which I was awarded the 2022 Milla Baldo Ceolin national prize by INFN.
+My past research focused on constraining properties of nuclear interactions in neutron stars from the multimessenger emission of binary neutron star mergers. If you want to know more about these topics, [here](/files/Tesi_Magistrale_Paiella.pdf) you can find my master thesis work for which I was awarded the 2022 Milla Baldo Ceolin national prize by INFN.
