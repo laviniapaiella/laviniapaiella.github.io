@@ -29,7 +29,7 @@ Here you can find an outline of my CV. The full version is available as a pdf [h
 * LOC member of PHAROS 2022, La Sapienza University (Rome)
 
 ### Publications
-======
+
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
