@@ -15,7 +15,7 @@ I am very passionate about outreaching and public engagement in the STEM field. 
 
 * **Par-en-te-si** : scientific literature festival promoted by the GSSI and in collaboration with the University of L'Aquila. New event each 1-2 months, check [GSSI Instagram](https://www.instagram.com/gransassoscienceinstitute/?hl=en) profile for updates.
 
-* **SHARPER night 2023**: European night of researchers in L'Aquila, I have taken part of outreach activities organized by GSSI.
+* [**SHARPER night 2023**](https://sharper-night.lngs.infn.it/): European night of researchers in L'Aquila, I have taken part of outreach activities organized by GSSI.
 
 <!-- <blockquote>
 💡 here is a good idea for you
