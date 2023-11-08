@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-My current research focuses on the study of the very first stars to be formed in the Universe, the so-called Population III stars, their capablity of producing gamma ray burst (GRBs) and to be progenitors of heavy black hole seeds for the production of supermassive black holes. 
+My current research focuses on the study of the very first stars formed in the Universe (Population III stars), their capablity of producing gamma ray burst (GRBs) and of providing heavy black hole seeds for the production of supermassive black holes. 
 
 Specifically, my PhD project aims at tackling these questions:
 
