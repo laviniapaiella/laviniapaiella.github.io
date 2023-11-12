@@ -1,6 +1,8 @@
 ---
 layout: archive
 title: "Research"
+header: 
+  image: ideas_header.jpg
 permalink: /research/
 author_profile: true
 
