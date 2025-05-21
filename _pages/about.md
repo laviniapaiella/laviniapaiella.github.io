@@ -11,9 +11,11 @@ redirect_from:
 ---
 <!-- blanck line below -->
 <br>
-Welcome! I am a second year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the connection between **first stars** and **gamma ray bursts**. If you want to know more please check my website, [contact me](mailto:lavinia.paiella@gssi.it) and stay tuned!
+Welcome! I am a third year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the formation of intermediate mass black holes in star clusters via stellar and black holes collisions / mergers. To this purpose, I am using and further developing the semi-analytic code [B-POP](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.5259A/abstract). If you want to know more please check my website, [contact me](mailto:lavinia.paiella@gssi.it) and stay tuned!
 
 I am very passionate about outreaching and public engagement in the STEM field. Here are some project I am working/have worked on recently:
+
+* **Space Explorers**: outreach events on Astronomy organized for elementary schools at GSSI.
 
 * **Par-en-te-si** : scientific literature festival promoted by the GSSI and in collaboration with the University of L'Aquila. New event each 1-2 months, check [GSSI Instagram](https://www.instagram.com/gransassoscienceinstitute/?hl=en) profile for updates.
 
