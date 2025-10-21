@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find an outline of my CV. The full version is available as a pdf [here](/files/CV_2025.pdf) (Updated May 2025).
+Here you can find an outline of my CV. The full version is available as a pdf [here](/files/CV_2025.pdf) (Updated October 2025).
 
 ### Education
 
