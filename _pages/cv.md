@@ -9,7 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-Here you can find an outline of my CV. The full version is available as a pdf [here](/files/CV_2025_oct.pdf) (Updated October 2025).
+The full version of my CV is available as a pdf [here](/files/CV_2025_oct.pdf) (Updated October 2025).
+In the following you can find a short outline.
 
 ### Education
 
@@ -19,12 +20,15 @@ Here you can find an outline of my CV. The full version is available as a pdf [h
 
 ### Awards and Honours
 
+* Transnational Visitor Programme Grant (AHEAD2020), 2024 
 * Milla Baldo Ceolin National Prize (awarded by INFN), 2023
 * Physics Master Honours Programme (La Sapienza University), 2021 - 2022
 * Physics Master Honours Programme (La Sapienza University), 2019 - 2020
 
 ### Conferences
 
+* LOC memeber of "ABETE: Avalanche of Bright sources towards the ET Era. The near-future prospects and challenges of multi-messenger astronomy", Sexten (Bolzano), 2026
+* LOC member of "14th Young Researcher Meeting", GSSI (L'Aquila), 2025
 * LOC member of "Asymmetric Binaries meet Fundamental Astro-Physics", GSSI (L'Aquila), 2023
 * LOC member of PHAROS 2022, La Sapienza University (Rome)
 
