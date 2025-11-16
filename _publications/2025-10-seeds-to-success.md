@@ -14,8 +14,4 @@ We investigate two IMBH *seeding* mechanisms (runaway and mild stellar collision
 We find that stellar collisions can be fundamental in sustaining IMBH formation in low-escape-velocity environment and reproduce potential IMBH observations in local globular clusters. We provide estimates of IMBH and intermediate-mass ratio production efficiency for different environments and present an overview of the main ejection mechanisms.
 In addition, in the Discussion section we propose some interesting application of our simulations to the study of IMBHs wandering in the galactic potential and the classification of IMBH host clusters.
 
-Here is a simple scheme of one of the possible evolutionary tracks of GW231123.
-![]()
-Feel free to use it for presentations, talks etc. ( just remember to cite us! :) )
-
 [Download paper here](https://arxiv.org/abs/2511.00200)
