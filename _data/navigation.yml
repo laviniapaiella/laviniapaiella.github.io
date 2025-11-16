@@ -10,8 +10,8 @@ main:
   # - title: "News & Updates"
   #  url: /news/
 
-  - title: "News & Updates"
-    url: /year-archive/
+  #- title: "News & Updates"
+  #  url: /year-archive/
 
   - title: "Publications"
     url: /publications/
