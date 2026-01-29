@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-The full version of my CV is available as a pdf [here](/files/CV_2026_jan.pdf) (Updated January 2026).
+The full version of my CV is available as a pdf [here](/files/CV_2026_01_29.pdf) (Updated January 2026).
 In the following you can find a short outline.
 
 ### Education
