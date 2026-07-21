@@ -11,7 +11,11 @@ redirect_from:
 ---
 <!-- blanck line below -->
 <br>
-Welcome! I am a 4th year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the formation of intermediate mass black holes in star clusters via stellar and black holes collisions / mergers. To this purpose, I am using and further developing the semi-analytic code [B-POP](https://ui.adsabs.harvard.edu/abs/2023MNRAS.520.5259A/abstract). If you want to know more please check my website, [contact me](mailto:lavinia.paiella@gssi.it) and stay tuned!
+Welcome! I am a 4th year PhD student in the Astrophysics and Cosmology group at Gran Sasso Science Institute. I am currently working under the supervision of Prof. Manuel Arca Sedda and Prof. Gor Oganesyan on a PhD project investigating the formation and dynamical assembly of intermediate mass black holes in star clusters and their characterization via gravitational waves.
+These objects have represented a long-standing mystery in astrophysics since the first hints of their existence emerged from dense star clusters and ultraluminous X-ray sources. Yet they hold a pivotal place in our understanding of black hole formation: they may constitute the evolutionary link between stellar-mass and supermassive black holes, potentially providing the seeds from which the latter grew across cosmic time. In this context gravitational waves constitute a prime tool to investigate to find them and investigate their properties since they can provide direct insights into the masses and spins of these black holes. Furthermore, intermediate-mass black holes in merging binaries are expected to be emitting gravitational waves on a wide range of frequencies, generally from mHz to Hz, making them interesting targets for multiband studies with current and future gravitational wave detectors.
+Throughout my PhD, I contributed to the development of the semi-analytic population synthesis code [B-POP](https://ui.adsabs.harvard.edu/abs/2026arXiv260320430A/abstract) while now I am also conducting N-body simulations of intermediate mass black holes embedded in star clusters using the code [N-body6++GPU](https://github.com/nbodyx/Nbody6ppGPU).
+
+If you want to know more about my work please check my website, [contact me](mailto:lavinia.paiella@gssi.it) and stay tuned!
 
 <!--I am very passionate about outreaching and public engagement in the STEM field. Here are some projects I am part of:
 
@@ -26,11 +30,11 @@ Welcome! I am a 4th year PhD student in the Astrophysics and Cosmology group at 
 -->
 
 
+<blockquote>
+💡 I am expecting to defend my thesis in January 2027 and I am actively looking for postdoc positions.
+If you know of any openings or you are interested in working together feel free to contact me!
 
-<!-- <blockquote>
-💡 here is a good idea for you
-
-</blockquote> -->
+</blockquote> 
 
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
