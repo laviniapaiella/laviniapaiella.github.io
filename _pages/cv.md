@@ -14,12 +14,14 @@ In the following you can find a short outline.
 
 ### Education
 
-* Ph.D in Astroparticle Physics, Gran Sasso Science Institute, 2022 - now
+* Ph.D in Astroparticle Physics, Gran Sasso Science Institute, 2022 - Jan 2027 (exp. defense)
 * M.S. in Astrophysics, La Sapienza University, 2020 - 2022
 * B.S. in Physics, La Sapienza University (Rome), 2017 - 2020
 
 ### Awards and Honours
 
+* ACME 3rd TNA call for short research visits, 2026
+* CINECA Computational Resource Allocation (Pleiadi Call 7), 65000 core hours, 2026
 * Transnational Visitor Programme Grant (AHEAD2020), 2024 
 * Milla Baldo Ceolin National Prize (awarded by INFN), 2023
 * Physics Master Honours Programme (La Sapienza University), 2021 - 2022
