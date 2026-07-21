@@ -32,4 +32,4 @@ I study these systems with complementary simulation approaches, each capturing a
 
 Feel free to explore my [publications](/publications/), [talks](/talks/), and [CV](/cv/), or [get in touch](mailto:lavinia.paiella@gssi.it).
 
-> 💡 **I expect to defend my thesis in January 2027 and am actively seeking postdoc positions.** If you know of openings or would like to collaborate, please [reach out](mailto:lavinia.paiella@gssi.it)!
+> 💡 **I expect to defend my thesis in January 2027 and am actively seeking postdoc positions.** If you know of openings or would like to collaborate, [reach out](mailto:lavinia.paiella@gssi.it)!
