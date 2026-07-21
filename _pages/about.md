@@ -23,8 +23,8 @@ I study these systems with complementary simulation approaches, each capturing a
 <div class="notice--info" markdown="1">
 <h3>🔭 Questions that drive my research</h3>
 <ul>
-<li><strong>How do massive black holes — and intermediate-mass black holes in particular — assemble across cosmic time, and what role do star clusters play?</strong></li>
-<li><strong>How can we probe this assembly with gravitational waves</strong> — from present-day observations with the LVK network to future detectors like the Einstein Telescope and LISA?</li>
+<li><strong>How do massive black holes and intermediate-mass black holes assemble across cosmic time, and what role do star clusters play?</strong></li>
+<li><strong>How can we probe this assembly with gravitational waves</strong>, from present-day observations with the LVK network to future detectors like the Einstein Telescope and LISA?</li>
 <li><strong>How do star clusters shape the formation of peculiar compact-binary mergers, and how can multimessenger observations help us study them?</strong></li>
 <li><strong>What can gravitational waves reveal about the formation channels of compact-binary mergers?</strong></li>
 </ul>
